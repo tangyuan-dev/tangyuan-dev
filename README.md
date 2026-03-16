@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 
-<h1 align="center">🦞 tangyuan-dev 的 AI 知识库</h1>
+<h1 align="center">AI 知识库</h1>
 
 <p align="center">
   <b>AI Agent 时代的操作系统 | 与 AI 共创美好未来</b>
