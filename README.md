@@ -1,4 +1,4 @@
-# 🚀 OpenClaw & Vibe Coding 学习指南
+# 🚀 欢迎来到 OpenClaw & Vibe Coding 学习中心
 
 **让每个人拥有 AI 同事** | **让学习像玩游戏一样有趣**
 
@@ -12,13 +12,12 @@
 |:---|:---|:---|
 | 零基础/初学者 | **[vibe-coding-starter](https://github.com/tangyuan-dev/vibe-coding-starter)** | 用自然语言编程 |
 | 想打造 AI 助手 | **[openclaw-tutorials](https://github.com/tangyuan-dev/openclaw-tutorials)** | 拥有个人 AI 助手 |
-| 想实战进阶 | **[ai-programming-tutorials](https://github.com/tangyuan-dev/ai-programming-tutorials)** | 做真实项目 |
 
 ---
 
-## 📖 快速开始（只需3步）
+## 📖 快速开始（只需 3 步）
 
-### 第1步：打开教程仓库
+### 第1步：打开教程
 
 ```
 ⬇️ 点击下方链接
@@ -40,15 +39,37 @@
 打开 docs/ 目录，按顺序学习：
 
 零基础学习路径：
-├── 01-intro.md        → 什么是 Vibe Coding（5分钟）
-├── 02-tools.md        → 选什么工具（5分钟）
+├── 01-intro.md         → 什么是 Vibe Coding（5分钟）
+├── 02-tools.md         → 选什么工具（5分钟）
 └── 03-first-project.md → 做出第一个作品（10分钟）
 
 有基础学习路径：
-├── 01-setup.md        → 安装 OpenClaw（10分钟）
-├── 02-first-task.md   → 第一个任务（5分钟）
+├── 01-setup.md         → 安装 OpenClaw（10分钟）
+├── 02-first-task.md    → 第一个任务（5分钟）
 └── 07-skill.md        → 开发第一个 Skill（20分钟）
 ```
+
+---
+
+## 🎮 游戏化学习
+
+### 积分规则
+
+| 任务 | 积分 |
+|:---|:---:|
+| 完成一篇教程 | +10 |
+| 提交代码 | +20 |
+| 每日打卡 | +5 |
+
+### 成就升级
+
+| 等级 | 积分 |
+|:---|:---:|
+| 🌱 新手 | 0-49 |
+| 📖 学徒 | 50-199 |
+| 💻 开发者 | 200-499 |
+| 🎓 导师 | 500-999 |
+| 🏆 大师 | 1000+ |
 
 ---
 
@@ -58,81 +79,46 @@
 ┌─────────────────────────────────────────────────────────┐
 │                    零基础学习路径                         │
 ├─────────────────────────────────────────────────────────┤
-│                                                         │
 │   [vibe-coding-starter]                                │
 │        │                                               │
 │        ▼                                               │
-│   01 什么是 Vibe Coding ──→ 02 工具选择 ──→ 03 第一个项目   │
-│        │                       │                       │
-│        ▼                       ▼                       │
-│   ⭐ 新手成就              💻 开始实战                   │
-│                                                         │
+│   01 什么是 → 02 工具选择 → 03 第一个项目                │
+│        │                       │                        │
+│        ▼                       ▼                        │
+│   ⭐ 新手成就              💻 开始实战                  │
 └─────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────┐
-│                    有基础学习路径                         │
+│                    有基础学习路径                          │
 ├─────────────────────────────────────────────────────────┤
-│                                                         │
 │   [openclaw-tutorials]                                 │
 │        │                                               │
 │        ▼                                               │
-│   01 安装 ──→ 02 第一个任务 ──→ 03 渠道配置            │
-│        │                       │                       │
-│        ▼                       ▼                       │
-│   07 Skill 开发 ──→ 11 打造产品 ──→ 12 企业部署         │
-│                                                         │
+│   01 安装 → 02 第一个任务 → 03 渠道配置                 │
+│        │                       │                        │
+│        ▼                       ▼                        │
+│   07 Skill 开发 → 11 打造产品 → 12 企业部署           │
 └─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎮 游戏化学习
+## 📦 核心仓库
 
-### 怎么获得积分？
+### 必学
 
-| 任务 | 积分 | 怎么做 |
-|:---|:---:|:---|
-| 完成一篇教程 | +10 | 学完就获得 |
-| 提交代码 | +20 | 提交到 GitHub |
-| 每日打卡 | +5 | 提交 Issue |
+| 仓库 | 适合 | 链接 |
+|:---|:---|:---|
+| vibe-coding-starter | 零基础 | [点击学习](https://github.com/tangyuan-dev/vibe-coding-starter) |
+| openclaw-tutorials | 有基础 | [点击学习](https://github.com/tangyuan-dev/openclaw-tutorials) |
 
-### 成就升级
+### 参考
 
-| 等级 | 积分 | 什么样子 |
-|:---|:---:|:---|
-| 🌱 新手 | 0-49 |刚入门 |
-| 📖 学徒 | 50-199 | 基础完成 |
-| 💻 开发者 | 200-499 | 能实战 |
-| 🎓 导师 | 500-999 | 能教学 |
-| 🏆 大师 | 1000+ | 顶尖 |
-
----
-
-## 📦 10个仓库一览
-
-### 核心教程（用这些学习）
-
-| # | 仓库 | 适合 | 该不该学 |
-|:-:|:---|:---|:---:|
-| 1 | [vibe-coding-starter](https://github.com/tangyuan-dev/vibe-coding-starter) | 零基础 | ✅ 必学 |
-| 2 | [openclaw-tutorials](https://github.com/tangyuan-dev/openclaw-tutorials) | 有基础 | ✅ 必学 |
-| 3 | [ai-programming-tutorials](https://github.com/tangyuan-dev/ai-programming-tutorials) | 进阶 | ⏳ 以后学 |
-
-### 实战资源（用来参考）
-
-| # | 仓库 | 用途 |
-|:-:|:---|:---|
-| 4 | [vibe-coding-projects](https://github.com/tangyuan-dev/vibe-coding-projects) | 看项目源码 |
-| 5 | [awesome-vibe-coding](https://github.com/tangyuan-dev/awesome-vibe-coding) | 查资源 |
-| 6 | [vibe-coding-prompts](https://github.com/tangyuan-dev/vibe-coding-prompts) | 抄 Prompt |
-| 7 | [openclaw-plugins](https://github.com/tangyuan-dev/openclaw-plugins) | 用插件 |
-
-### 游戏化系统（自动的）
-
-| # | 仓库 | 用途 |
-|:-:|:---|:---|
-| 8 | [openclaw-gamification](https://github.com/tangyuan-dev/openclaw-gamification) | 游戏规则 |
-| 9 | [openclaw-gamification-tools](https://github.com/tangyuan-dev/openclaw-gamification-tools) | 打卡工具 |
+| 仓库 | 用途 |
+|:---|:---|
+| ai-programming-tutorials | AI 编程实战 |
+| vibe-coding-projects | 项目源码参考 |
+| awesome-vibe-coding | 资源大全 |
 
 ---
 
@@ -145,7 +131,7 @@ A: 零基础也可以！从 vibe-coding-starter 开始
 A: 不需要！有浏览器和 GitHub 账号就行
 
 **Q: 遇到问题怎么办？**
-A: 在仓库提交 Issue，会有人帮你
+A: 在仓库提交 Issue
 
 **Q: 要学多久？**
 A: 零基础约 2 周，每天 1 小时
@@ -154,12 +140,18 @@ A: 零基础约 2 周，每天 1 小时
 
 ## 🚀 立即开始
 
-### 零基础点击这个：
+### 零基础点击：
 👉 **[vibe-coding-starter](https://github.com/tangyuan-dev/vibe-coding-starter)** → Fork → 学习
 
-### 有基础点击这个：
+### 有基础点击：
 👉 **[openclaw-tutorials](https://github.com/tangyuan-dev/openclaw-tutorials)** → Fork → 学习
 
 ---
 
-**跟着路径学，不要乱跳！按顺序来最简单！** 📚
+**跟着路径学，按顺序来最简单！** 📚
+
+---
+
+⭐ Star 支持，一起探索 AI Agent 时代！
+
+🦞 **AI Agent 时代的操作系统，与 AI 共创美好未来**
