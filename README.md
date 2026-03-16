@@ -6,18 +6,12 @@
 <h1 align="center">AI 知识库</h1>
 
 <p align="center">
-  <b>AI Agent 时代的操作系统 | 与 AI 共创美好未来</b>
+  <b>AI Agent 知识技能分享平台</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tangyuan-dev">
-    <img src="https://img.shields.io/github/stars/tangyuan-dev?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
-  </a>
   <a href="https://github.com/tangyuan-dev/openclaw-tutorials">
     <img src="https://img.shields.io/badge/OpenClaw-教程-blue?style=for-the-badge" alt="OpenClaw"/>
-  </a>
-  <a href="https://github.com/tangyuan-dev/vibe-coding-starter">
-    <img src="https://img.shields.io/badge/Vibe-Coding-入门-green?style=for-the-badge" alt="Vibe Coding"/>
   </a>
 </p>
 
