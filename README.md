@@ -1,7 +1,13 @@
 # 🦞 tangyuan-dev
 
 <p align="center">
-  <b>AI Agent 时代的布道者 | 与 AI 共创美好未来</b>
+  <img src="https://pic.yupi.icu/1/vibe%252520coding%252520show%2525E5%2525A4%2525A7-20260113165845170.jpeg" alt="AI Agent" width="500"/>
+</p>
+
+<h1 align="center">🦞 tangyuan-dev 的 AI 知识库</h1>
+
+<p align="center">
+  <b>AI Agent 时代的操作系统 | 与 AI 共创美好未来</b>
 </p>
 
 <p align="center">
@@ -18,18 +24,43 @@
 
 ---
 
-## 🌟 关于我
+## 📖 什么是 Vibe Coding？
 
-- 🔬 博士
-- 🧑‍💻 AI 时代知识技能博主
-- 🎯 专注 Vibe Coding / AI 助手 / Agent 开发
-- 🏠 相信 AI 能够提升人类生活品质
+**Vibe Coding（氛围编程）** 已经火遍全网！
+
+不仅是程序员，连设计师、产品运营、甚至完全不懂技术的人都能用 Vibe Coding 实现自己的想法，用 AI 做出了自己的产品。
+
+我创作了这套教程，结合了 AI 编程经验 + 项目开发经验，目标只有一个：
+
+**帮助任何人快速掌握 Vibe Coding，哪怕零基础，也能快速开发上线自己的产品。**
 
 ---
 
-## 📚 我的仓库
+## 📚 教程包含什么？
 
-<p align="center">
+- 基础必读：帮你快速理解 Vibe Coding 并上手实践，10 分钟做出第一个作品
+- 编程工具：帮你选择适合自己的 AI 编程工具，包括 AI 模型选择、AI 代码编辑器等
+- 项目实战：手把手带你从 0 到 1 做出真实可用的产品
+- 经验技巧：提升 Vibe Coding 效率和质量，包括对话工程、上下文管理、幻觉处理等
+- 产品变现：教你如何让产品产生价值
+
+---
+
+## 🚀 学习路径推荐
+
+**零基础新手：**
+- 第 1 天：读完基础必读，理解 Vibe Coding 并做出第一个作品
+- 第 1-2 周：学习 AI 编程工具 + 做几个简单项目
+- 之后：按需学习经验技巧和产品变现
+
+**有编程基础：**
+- 第 1 天：快速过完基础内容
+- 第 1 周：学习主流 AI 编程工具，尝试重构之前的项目
+- 之后：重点学习进阶技巧，提升对话和上下文管理能力
+
+---
+
+## 📦 我的仓库
 
 | 仓库 | 描述 |
 |:---|:---|
@@ -40,38 +71,6 @@
 | [vibe-coding-prompts](https://github.com/tangyuan-dev/vibe-coding-prompts) | 💬 高效 Prompt 模板库 |
 | [openclaw-plugins](https://github.com/tangyuan-dev/openclaw-plugins) | 🔌 OpenClaw 精选插件 |
 | [vibe-coding-projects](https://github.com/tangyuan-dev/vibe-coding-projects) | 🏗️ Vibe Coding 实战项目 |
-
-</p>
-
----
-
-## 🎯 核心理念
-
-> **AI Agent 时代的操作系统，与 AI 共创美好未来**
-
-AI 不是工具，而是帮助我们提升生活品质的伙伴。
-学会与 AI 一起工作，让每个人都能享受 AI 时代的红利。
-
----
-
-## 📖 快速开始
-
-### 新手入门
-
-| 资源 | 链接 |
-|:---|:---|
-| OpenClaw 安装 | [01. 安装与配置](./openclaw-tutorials/docs/01-setup.md) |
-| Vibe Coding 入门 | [01. Vibe Coding 简介](./vibe-coding-starter/docs/01-intro.md) |
-| 第一个项目 | [03. 第一个项目](./vibe-coding-starter/docs/03-first-project.md) |
-
-### 进阶内容
-
-| 类别 | 内容 |
-|:---|:---|
-| 对话工程 | [如何问 AI 才能得到好结果](./vibe-coding-starter/docs/07-prompting.md) |
-| 上下文管理 | [有效管理项目上下文](./vibe-coding-starter/docs/08-context.md) |
-| 幻觉处理 | [识别和处理 AI 幻觉](./vibe-coding-starter/docs/09-hallucination.md) |
-| 工作流自动化 | [自动化你的工作](./openclaw-tutorials/docs/06-workflow.md) |
 
 ---
 
@@ -86,7 +85,6 @@ AI 不是工具，而是帮助我们提升生活品质的伙伴。
 ## 📧 联系我
 
 - 📧 Email: tangyuan-dev@github.com
-- 🐦 Twitter: [@tangyuan_dev](https://twitter.com/tangyuan_dev)
 
 ---
 
@@ -94,6 +92,6 @@ AI 不是工具，而是帮助我们提升生活品质的伙伴。
 
 ⭐ Star 我的仓库，一起探索 AI Agent 时代！
 
-🦞 **AI Agent 时代的操作系统**
+🦞 **AI Agent 时代的操作系统，与 AI 共创美好未来**
 
 </p>
