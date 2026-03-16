@@ -77,7 +77,7 @@
 
 ## 📧 联系我
 
-- 📧 Email: tangyuan-dev@github.com
+- 📧 Email: tangyuan_ai@126.com
 
 ---
 
